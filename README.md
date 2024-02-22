@@ -1,3 +1,3 @@
 # new project (website of book store)
 
-[live demo](https://candid-moxie-8e3fdb.netlify.app/)
+[Deployment Link](https://book-store-sushobhit.vercel.app/)
